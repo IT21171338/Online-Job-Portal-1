@@ -52,6 +52,7 @@ class application{
     char[50] applicantQualifications;
     char[50] CompanyName;
     char[20] CompanyPosotion;
+    char[20] appliedDate;
 
   public:
     sendApplication();
